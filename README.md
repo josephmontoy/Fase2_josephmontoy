@@ -1,2 +1,0 @@
-# DSW-josephmontoy
-Tarea1
