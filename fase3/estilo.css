@@ -1,0 +1,106 @@
+body {
+  background: lightgrey;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#container{
+   width: 1100px;
+   margin: 0px auto;
+   border: 1px solid black;
+
+
+}
+
+header{
+ background:rgb(64, 64, 204);
+ text-align: center;
+ height: 100px;
+ width: 100%;
+ line-height: 100px;
+ margin: 0px;
+ color: white;
+ border-bottom: 4px dashed;
+ 
+}
+
+nav{
+  background:lightblue;
+  height: 50px;
+  border: 1px solid black;
+}
+
+#resumen{
+      float: left;
+      width: 40%;
+      background:lightgoldenrodyellow;
+      min-height: 700px;
+      border-radius: 1px solid black;
+      text-align: left;
+}
+
+#titulo{
+ float: left;
+ width: 40%;
+ background:mediumblue;
+ min-height: 880px;
+ text-align:center;
+ color: white;
+
+}
+
+#Contenido{
+  float:left;
+ width: 60%;
+ background:rgb(243, 247, 13);
+ min-height: 880px;
+ text-align:center;
+ font-family: Helvetica;
+
+}
+
+nav ul li{
+  float: left;
+  list-style: none;
+  margin: 10px;
+
+
+}
+
+.clearfix{
+  clear:both;
+}
+
+footer{
+
+  background: black;
+  color:ivory;
+  text-align: center;
+  height: 50px;
+  line-height: 50px; 
+}
+  
+#titlesubtema1{
+  background:rgb(225, 250, 3);
+ text-align: center;
+ height: 100px;
+ width: 100%;
+ line-height: 100px;
+ margin: 0px;
+ color: rgb(0, 0, 0);
+ border-bottom: 4px dashed;
+}
+
+#defhgroup{
+  background:lightblue;
+  height: 60px;
+  border: 1px solid black;
+}
+
+#defsec{
+  background:lightblue;
+  height: 70px;
+  border: 1px solid black;
+}
+
+
